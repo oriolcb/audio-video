@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 9" width="86" height="9">
+	<title>bar-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="layer2">
+		<path id="rect2" class="s0" d="m0 4.4c0-2.3 1.9-4.2 4.2-4.2h77.4c2.3 0 4.2 1.9 4.2 4.2 0 2.3-1.9 4.2-4.2 4.2h-77.4c-2.3 0-4.2-1.9-4.2-4.2z"/>
+	</g>
+</svg>
